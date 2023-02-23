@@ -1,0 +1,5 @@
+spring:
+  mvc:
+    # Swagger: Spring boot 2.6 ?? ?? ??? ??
+    pathmatch:
+      matching-strategy: ant_path_matcher
